@@ -53,7 +53,28 @@ library(knitr)
 
 # ACOMODACIóN 14/03 - 20/03/2020
 
-## Sugerencia principal: Iberostar Las Letras
+## Sugerencia principal: Hotel Emperador
+
+<iframe src="Emperador/Emperador.html" frameborder="0" width="100%" height="1400" scrolling="no"></iframe>
+
+<div class="precio">
+
+<p> PRECIOS: 
+  <ul>
+  
+* Habitación doble para uso individual, desayuno incluido: 126,50€ IVA inc
+* Habitación doble, desayuno incluido: 140€ IVA inc
+  </ul>
+</p>
+</div>
+
+</br>
+</br>
+
+
+## Hoteles alternativos {.tabset .tabset-fade .tabset-pills}
+
+### Iberostar Las Letras
 
 <iframe src="LasLetras/LasLetras.html" frameborder="0" width="100%" height="1400" scrolling="no"></iframe>
 
@@ -69,10 +90,6 @@ library(knitr)
 </div>
 
 </br>
-</br>
-
-
-## Hoteles alternativos {.tabset .tabset-fade .tabset-pills}
 
 ### H10 Tribeca
 
@@ -150,7 +167,26 @@ library(knitr)
 
 # ACOMODACIóN 25/04 - 01/05/2020
 
-## Sugerencia principal: Iberostar Las Letras
+## Sugerencia principal: Hotel Emperador
+
+<div class="precio">
+
+<p> PRECIOS: 
+  <ul>
+  
+* Habitación doble para uso individual, desayuno incluido: 143€ IVA inc
+* Habitación doble, desayuno incluido: 156,50€ IVA inc
+  </ul>
+</p>
+</div>
+
+</br>
+</br>
+
+
+## Hoteles Alternativos {.tabset .tabset-fade .tabset-pills}
+
+### Iberostar Las Letras
 
 <div class="precio">
 
@@ -166,8 +202,6 @@ library(knitr)
 </br>
 </br>
 
-
-## Hoteles Alternativos {.tabset .tabset-fade .tabset-pills}
 
 ### H10 Tribeca
 
